@@ -1,4 +1,4 @@
-[link netfly] (https://loving-goodall-5fe827.netlify.com)
+[link netfly](https://loving-goodall-5fe827.netlify.com)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
